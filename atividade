@@ -1,0 +1,3 @@
+nome = input('digite seu nome:')
+idade = input('digite sua idade:')
+print('seu nome é',nome,'e sua idade é',idade)
